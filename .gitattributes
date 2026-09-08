@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Base_M43_Pratique_CREDIT_CARD_FRAUD.csv filter=lfs diff=lfs merge=lfs -text
