@@ -2,7 +2,7 @@
 
 ### 📊 Projeto de Ciência de Dados | Machine Learning
 
-Projeto desenvolvido com o objetivo de analisar transações de cartão de crédito e construir modelos de Machine Learning capazes de identificar operações potencialmente fraudulentas.
+Projeto final desenvolvido no curso Cientista de Dados - EBAC, com o objetivo de analisar transações de cartão de crédito e construir modelos de Machine Learning capazes de identificar operações potencialmente fraudulentas.
 
 O principal desafio do projeto está no forte desbalanceamento entre transações legítimas e fraudulentas, tornando necessário utilizar estratégias específicas de tratamento e métricas adequadas para avaliar os modelos.
 
